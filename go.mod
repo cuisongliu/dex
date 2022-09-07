@@ -30,12 +30,11 @@ require (
 	go.etcd.io/etcd/client/v3 v3.5.0-alpha.0
 	go.etcd.io/etcd/pkg/v3 v3.5.0-alpha.0
 	golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad
-	golang.org/x/net v0.0.0-20201224014010-6772e930b67b
-	golang.org/x/oauth2 v0.0.0-20201208152858-08078c50e5b5
-	golang.org/x/sys v0.0.0-20201201145000-ef89a241ccb3 // indirect
-	google.golang.org/api v0.35.0
-	google.golang.org/grpc v1.32.0
-	google.golang.org/protobuf v1.26.0
+	golang.org/x/net v0.0.0-20220624214902-1bab6f366d9e
+	golang.org/x/oauth2 v0.0.0-20220822191816-0ebed06d0094
+	google.golang.org/api v0.95.0
+	google.golang.org/grpc v1.47.0
+	google.golang.org/protobuf v1.28.0
 	gopkg.in/square/go-jose.v2 v2.5.1
 	sigs.k8s.io/testing_frameworks v0.1.2
 )
